@@ -1,8 +1,22 @@
+.html,body{
+padding:0;
+	marg:0;
+	height:100px;
+	
+
+}
 .holder{
-display:flex;
+  display:flex;
+	justify-content:center;
+	align-items:center;
 	width:100px;
 	height:100px;
-	background-color:red;
-
 	
+}
+
+.class{
+
+	height:100;
+	width:100;
+	background-color:red;
 }
